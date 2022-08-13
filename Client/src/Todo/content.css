@@ -1,0 +1,55 @@
+.content-todo{
+    position: absolute;
+    left: 12vw;
+    top: 10vh;
+    border: 10x solid black;
+   width: 88vw;
+   height: 90vh;
+   margin-top: -0.4vh;
+   text-align: center;
+}
+.content-header-grid{
+    
+    width: 70vw;
+    display: grid;
+    grid-template: 100%/repeat(4,1fr);
+}
+span{
+    padding: 2vh;
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+    line-height: 0%;
+    font-size: 20px;
+}
+.add-Btn{
+    text-align: end;
+    border-radius: 50%;
+    background-color: green;
+    color: white;
+}
+.todo-item{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background: rgb(245, 210, 210);
+    z-index: 1;
+    border-radius: 2px;
+}
+.main-table table{
+    width: 85%;
+    margin-left: 5vw;
+    margin-top: 50px;
+}
+table td, table th {
+    border: 1px solid black;
+}
+table th {
+    padding: 10px 10px;
+    background-color: rgb(120, 120, 224);
+    color: white;
+}
+table {
+    border: 1px solid black;
+}

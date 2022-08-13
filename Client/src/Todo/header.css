@@ -1,0 +1,13 @@
+.header-name{
+    width: 99.2vw;
+    height: 8vh;
+    border: 5px solid lightgreen;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    width: 90vw;
+    text-align: end;
+    padding-top: 2vh;
+}

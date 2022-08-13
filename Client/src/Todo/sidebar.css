@@ -1,0 +1,15 @@
+.sidebar{
+    width: 12vw;
+    height: 90vh;
+    text-align: center;
+    background-color: lightgreen;
+   margin-top: -2.3vh;
+}
+.todo-sen{
+   padding-top: 3vh;
+}
+.logout-btn{
+    position: absolute;
+    bottom: 20vh;
+    left: 4vw;
+}

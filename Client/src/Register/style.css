@@ -1,0 +1,65 @@
+.reg-Main{
+    background-color: lightseagreen;
+    width: 100vw;
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.signupContainer2{
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 20vw;
+    background-color: white;
+    border-radius: 2px;
+    /* box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5); */
+    /* filter: drop-shadow(10px 20px 2px rgba(0,0,0,0.5)); */
+
+}
+.forminput{
+    width: 18.5vw;
+    margin-top: 1.8vh;
+    text-align: center;
+    height: 4.3vh;
+   
+}
+
+.Logo{
+    width: 3.5vw;
+    height: 3.5vw;
+    border-radius: 50%;
+    background-color: yellow;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: -6%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.6);
+}
+.material-icons-reg{
+    margin-top: 10px;
+    color: rgb(3, 141, 141);
+    width: auto;
+}
+.reg{
+    font-size: large;
+    margin-top: 8vh;
+    color: grey;
+    margin-bottom: 2vh;
+}
+.formsubmitinput{
+    color: white;
+    font-size: 1.6vw;
+    margin-top: 1vh;
+    width: 19vw;
+    background-color: rgb(51, 165, 236);
+    border-color: rgb(51, 165, 236);
+}
+
+.register-btn{
+    color: red;
+}
